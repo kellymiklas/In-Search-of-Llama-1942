@@ -1,0 +1,1 @@
+llama_shadow_01.png.png 53 64, llama_shadow_02.png.png 45 212, llama_shadow_03.png.png 53 325, llama_shadow_04.png.png 43 468.
